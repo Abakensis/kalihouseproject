@@ -1,0 +1,185 @@
+*{
+    margin:0;
+    padding:0;
+}
+.head{
+    width:100vw;
+    min-width:400px;
+    height:fit-content;
+    text-align: center;
+    border: 2px rgb(155, 155, 160) solid;
+    border-radius: 20px;
+    margin-top:0px;
+    background-color:#fcfcfc;
+    display: flex;
+
+}
+.logo{
+    width:80vw;
+    height:120px;  
+    
+}
+.navbar{
+    width:20vw;
+    height:120px;
+}
+.container{
+    width: 100vw;
+    height:max-content;
+    background-color:antiquewhite;
+    
+}
+.visual{
+    width:100vw;
+    height:900px;
+    border: 2px rgb(155, 155, 160) solid;
+    
+}
+.textleft{
+    width:80vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top:20px;
+    margin-bottom:20px;
+    height:max-content;
+    text-align: center;
+}
+.galerie{
+    width:100vw;
+        height:fit-content;
+        display:flex;
+        flex-wrap: wrap;
+        justify-content:center;
+        margin-top: 15px;
+}
+.galerieup{
+    width:400px;
+    height:400Px;
+    margin-top: 3px;
+    margin-right:2px;
+    margin-left:2px;
+}
+.galeriesecond{
+    width:400px;
+    height:400Px;
+    margin-top: 3px;
+    margin-right:2px;
+    margin-left:2px;
+}
+.downthird{
+    width:400px;
+    height:400Px;
+    margin-top: 3px;
+    margin-right:2px;
+    margin-left:2px;
+}
+.downfourth{
+    width:400px;
+    height:400Px;
+    margin-top: 3px;
+    margin-right:2px;
+    margin-left:2px;
+}
+.flow{
+    width:80vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top:20px;
+    margin-bottom:20px;
+    height:max-content;
+    text-align: center;
+    }
+    .plus{
+        margin-top: 10px;
+        width:100vw;
+        height:fit-content;
+        display:flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    
+    }
+    .first{
+        width:300px;
+        height:300Px;
+        background-color:black;
+    }
+    .second{
+        width:300px;
+        height:300Px;
+        background-color:rgb(36, 18, 18);
+    }
+    .third{
+        width:300px;
+        height:300Px;
+        background-color:rgb(141, 141, 141);
+    }
+    .fourth{
+        width:300px;
+        height:300Px;
+        background-color:rgb(230, 182, 182);
+    }
+    #footer{
+        margin-bottom: 0%;
+        padding-bottom: 0%;
+        color: white;
+        
+    }
+    .foot{
+        width: 100vw;
+        height: 70px;
+        background-color:rgb(250, 245, 200);
+        text-decoration: rgb(255, 255, 255) ;
+        color: white;
+        display:flex;
+        justify-content: space-around;
+        border: 3px rgb(155, 155, 160) solid;
+        border-radius:7px;
+    }
+    .foot p{
+        text-decoration: #fcfcfc;
+        color: white;
+    }
+    .footleft{
+        width: 33vw;
+        height: 70px;
+    }
+    .footcenter{
+        width: 33vw;
+        height: 70px;
+     
+    }
+    .footright{
+        width: 33vw;
+        height: 70px;
+     
+    }
+.foot p{
+    text-align: center;
+    color: white;
+}
+/* Questionnaire*/
+.containerquestion{
+    margin-top: 20px;
+    width: 100vw;
+    height:100vh;
+    text-align: center;
+    justify-content:center;
+}
+.head2{
+    width:80vw;
+   min-width:320px;
+    height:120px;
+    text-align: center;
+    border: 2px rgb(155, 155, 160) solid;
+    border-radius: 20px;
+    margin-top:0px;
+    background-color:white;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+a{
+    text-decoration: none ;
+}
+li{
+    text-decoration: none ;
+}
